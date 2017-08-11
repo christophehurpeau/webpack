@@ -400,7 +400,8 @@
             "amd",
             "umd",
             "umd2",
-            "jsonp"
+            "jsonp",
+            "module"
           ]
         },
         "libraryExport": {
